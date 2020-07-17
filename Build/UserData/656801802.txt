@@ -1,0 +1,62 @@
+# I used this site to build this file https://ukeloop.github.io/gk6x_gui/
+
+# Layer1
+
+[Layer1]
+LAlt:LWin
+
+[Layer1]
+LWin:LAlt
+
+[FnLayer1]
+M:VolumeMute
+
+[FnLayer1]
+Esc:BackTick
+
+[FnLayer1]
+Backspace:Delete
+
+[FnLayer1]
+OpenSquareBrace:ScrollLock
+
+[FnLayer1]
+CloseSquareBrace:Pause
+
+[FnLayer1]
+Comma:VolumeDown
+
+[FnLayer1]
+Period:VolumeUp
+
+# Layer2
+
+[Layer2]
+LAlt:LWin
+
+[Layer2]
+LWin:LAlt
+
+[FnLayer2]
+M:VolumeMute
+
+[FnLayer2]
+Esc:BackTick
+
+[FnLayer2]
+Backspace:Delete
+
+[FnLayer2]
+OpenSquareBrace:ScrollLock
+
+[FnLayer2]
+CloseSquareBrace:Pause
+
+[FnLayer2]
+Comma:VolumeDown
+
+[FnLayer2]
+Period:VolumeUp
+
+[Lighting(Red Light Breathing,Layer1)]
+[Lighting(Endless stream,Layer2)]
